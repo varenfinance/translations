@@ -47,7 +47,7 @@
   "Expert Mode": "Mode ng experto",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "Ang mode ng experto ay nagsasara ng kumpirmasyon ng transaction prompt at pinapayagan ang high slippage trades\n na kalimitang nagreresulta ng hindi kaaya-ayang rates at nawawalang pondo.",
   "Failed": "",
-  "FreeWei covers gast costs for transactions that include a mint.": "",
+  "FreeWei covers gas costs for transactions that include a mint.": "",
   "FreeWei status": "",
   "Gateway:": "Gateway:",
   "Generating gateway address": "Pagbuo ng gateway address",

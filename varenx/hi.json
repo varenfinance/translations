@@ -47,7 +47,7 @@
   "Expert Mode": "विशेषज्ञ साधन",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "विशेषज्ञ मोड कन्फर्म ट्रांजैक्शन प्रॉम्प्ट को बंद कर देता है और उच्च स्लिपेज ट्रेडों की अनुमति देता है जिसके परिणामस्वरूप अक्सर खराब दरें और खोई हुई धनराशि होती है।",
   "Failed": "",
-  "FreeWei covers gast costs for transactions that include a mint.": "",
+  "FreeWei covers gas costs for transactions that include a mint.": "",
   "FreeWei status": "",
   "Gateway:": "गेटवे:",
   "Generating gateway address": "गेटवे पता उत्पन्न करना",

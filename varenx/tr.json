@@ -47,7 +47,7 @@
   "Expert Mode": "Uzman Modu",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "Uzman modu, işlem onayı istemini kapatır ve çoğunlukla kötü oranlar ve sermaye kayıplarına neden olan yüksek kayması olan takaslara izin verir.",
   "Failed": "",
-  "FreeWei covers gast costs for transactions that include a mint.": "",
+  "FreeWei covers gas costs for transactions that include a mint.": "",
   "FreeWei status": "",
   "Gateway:": "Ağ geçidi",
   "Generating gateway address": "Ağ geçidi oluşturuluyor",

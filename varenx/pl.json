@@ -47,7 +47,7 @@
   "Expert Mode": "Tryb Ekspert",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "Tryb ekspert wyłącza monit o potwierdzeniu transakcji i umożliwia transakcje o wysokim poślizgu, które często skutkują nieprawidłowymi kursami i utratą środków.",
   "Failed": "Nieudany",
-  "FreeWei covers gast costs for transactions that include a mint.": "Freewei pokrywa opłaty za transakcje, w tym także wybicie",
+  "FreeWei covers gas costs for transactions that include a mint.": "Freewei pokrywa opłaty za transakcje, w tym także wybicie",
   "FreeWei status": "Status Freewei",
   "Gateway:": "Wejście",
   "Generating gateway address": "Generowanie adresu wyjściowego",

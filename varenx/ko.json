@@ -47,7 +47,7 @@
   "Expert Mode": "전문가 모드",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "전문가 모드는 검사 프롬프트를 끄고 더 높은 슬리피지를 허용합니다. 그러나 이것은 낮은 금리와 자금을 잃을 가능성이 더 높아집니다.",
   "Failed": "",
-  "FreeWei covers gast costs for transactions that include a mint.": "",
+  "FreeWei covers gas costs for transactions that include a mint.": "",
   "FreeWei status": "",
   "Gateway:": "관문",
   "Generating gateway address": "게이트웨이 주소 생성",

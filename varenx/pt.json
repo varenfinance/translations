@@ -47,7 +47,7 @@
   "Expert Mode": "Modo Avançado",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "Modo Avançado desativa a mensagem de confirmação da transação e permite transações com maiores variações de preço\nque normalmente resultam em piores taxas e perda de fundos.",
   "Failed": "",
-  "FreeWei covers gast costs for transactions that include a mint.": "",
+  "FreeWei covers gas costs for transactions that include a mint.": "",
   "FreeWei status": "",
   "Gateway:": "Gateway:",
   "Generating gateway address": "A gerar endereço de gateway",

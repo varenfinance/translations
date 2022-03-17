@@ -47,7 +47,7 @@
   "Expert Mode": "Expert Mode",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.",
   "Failed": "Failed",
-  "FreeWei covers gast costs for transactions that include a mint.": "FreeWei covers gast costs for transactions that include a mint.",
+  "FreeWei covers gas costs for transactions that include a mint.": "FreeWei covers gas costs for transactions that include a mint.",
   "FreeWei status": "FreeWei status",
   "Gateway:": "Gateway:",
   "Generating gateway address": "Generating gateway address",
