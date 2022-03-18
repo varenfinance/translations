@@ -47,7 +47,7 @@
   "Expert Mode": "โหมดผู้เชียวชาญ",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "โหมดผู้เชี่ยวชาญจะปิดการแจ้งยืนยันการทำธุรกรรมและอนุญาตให้มีการซื้อขายสูง \n ที่มักจะส่งผลให้อัตราแลกเปลี่ยนที่ไม่ดีและอาจจะสูญเสียเงิน",
   "Failed": "ล้มเหลว",
-  "FreeWei covers gast costs for transactions that include a mint.": "FreeWei ครอบคลุมค่าน้ำมันสำหรับธุรกรรมที่มีการใช้เหรียญกษาปณ์",
+  "FreeWei covers gas costs for transactions that include a mint.": "FreeWei ครอบคลุมค่าน้ำมันสำหรับธุรกรรมที่มีการใช้เหรียญกษาปณ์",
   "FreeWei status": "สถานะ FreeWei",
   "Gateway:": "เกตเวย์",
   "Generating gateway address": "ทำการสร้างที่อยู่เกตเวย์",
