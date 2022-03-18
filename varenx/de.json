@@ -121,8 +121,6 @@
   "Swap To (est.):": "Swap zu (geschätzt)",
   "Swap To:": "Swap zu",
   "Swap between Blockchains": "Zwischen Blockchains swappen",
-  "Swappp": "Swapppen",
-  "Swappppp": "Swapppppen",
   "Switch network": "",
   "Telegram": "Telegram",
   "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer.": "Die Uniswap-Invariante x*y=k konnte nicht erfüllt werden. Das bedeutet normalerweise, dass eines der zu swappenden Tokens hat ein nicht kompatibles Transfer-Verhalten.",

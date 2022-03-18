@@ -121,8 +121,6 @@
   "Swap To (est.):": "เปลี่ยนเป็น (สร้าง.)",
   "Swap To:": "เปลี่ยนเป็น",
   "Swap between Blockchains": "เปลี่ยนระหว่างบล็อคเชน",
-  "Swappp": "เปลี่ยนนน",
-  "Swappppp": "เปลี่ยนนนนน",
   "Switch network": "สลับเครือข่าย",
   "Telegram": "โทรเลข",
   "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer.": "ค่าคงที่ Uniswap x*y=k เกิดความไม่พอใจในการแลกเปลี่ยน ซึ่งมักจะหมายถึงหนึ่งในโทเค็นที่คุณกำลังทำการแลกเปลี่ยนรวมถึงพฤติกรรมที่กำหนดเองในการโอน",

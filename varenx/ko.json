@@ -121,8 +121,6 @@
   "Swap To (est.):": "스왑 대상 (추정）",
   "Swap To:": "스왑 대상",
   "Swap between Blockchains": "블록체인 사이에 스왑",
-  "Swappp": "Swappp",
-  "Swappppp": "Swappppp",
   "Switch network": "",
   "Telegram": "텔레그램",
   "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer.": "이 스왑은 Uniswap 불변량 x*y=k의 규칙을 충족하지 않습니다. 이 현상은 보통이면 스왑 토큰 중 하나가 송금시의 커스텀 동작에 내장되어 있기 때문에 발생합니다.",

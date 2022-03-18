@@ -121,8 +121,6 @@
   "Swap To (est.):": "兑换至（预估.）：",
   "Swap To:": "兑换至",
   "Swap between Blockchains": "区块链之间的兑换",
-  "Swappp": "Swappp",
-  "Swappppp": "Swappppp",
   "Switch network": "切换网络",
   "Telegram": "电报",
   "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer.": "Uniswap 的恒定总量 x*y=k 不满足需求。这通常意味着您要兑换的代币之一在兑换时包含了自定义行为。",

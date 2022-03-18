@@ -121,8 +121,6 @@
   "Swap To (est.):": "Swap sang (ước tính):",
   "Swap To:": "Swap sang:",
   "Swap between Blockchains": "Swap giữa các Blockchain",
-  "Swappp": "Swappp",
-  "Swappppp": "Swappppp",
   "Switch network": "Đổi mạng lưới",
   "Telegram": "Telegram",
   "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer.": "Swap này không thoả mãn công thức Uniswap x*y=k. Điều này thường có nghĩa token bạn đang swap đang thực hiện hành vi khác.",
