@@ -40,7 +40,7 @@
   "Loading": "Chargement",
   "Max": "maximum",
   "Medium": "Medium",
-  "New to Ethereum?": "Nouveau sur Ethereum ?",
+  "New to Ethereum?": "Nouveau sur Ethereum?",
   "Oops!": "Oops!",
   "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device": "Oops! Une erreur inconnue est survenue. SVP, merci de rafraichir la page, ou essayez depuis un autre navigateur ou ordinateur.",
   "Output is estimated. If the price changes by more than {0}% your transaction\nwill revert.": "Le montant à receptionner est estimé. Si le prix change de plus de {0}%, alors votre transaction sera annulée.",
@@ -92,6 +92,6 @@
   "failed to load": "Echec au chargement",
   "loading...": "chargement...",
   "{0} Deposited": "{0} Deposé",
-  "{0} {1} per {2}": "0} {1} par {2}",
+  "{0} {1} per {2}": "{0} {1} par {2}",
   "{0}/{1} Burned": "{0}/{1} Détruit"
 }
