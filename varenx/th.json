@@ -58,6 +58,7 @@
   "Import": "นำเข้าข้อมูล",
   "Import List": "นำเข้ารายการทั้งหมด",
   "Initializing": "กำลังเริ่มต้น",
+  "Insufficient liquidity": "",
   "Insufficient {0} balance": "สภาพคล่องไม่มี จำนวนเงินที่มีอยู่เท่ากับ {0}",
   "Intermediary swaps": "สับเปลี่ยนตัวกลางทางการเงิน",
   "Join the community on Discord.": "เข้าร่วมชุมชนบนดิสคอร์ด",
