@@ -128,7 +128,7 @@
   "The address to which the funds will be sent.": "Adres, na który zostaną wysłane środki.",
   "The fee(s) required by the {0} network, to move {1}. This does not go to Ren or the Ren team.": "Opłaty wymagane przez sieć {0}, aby przenieść {1}. Nie dotyczy to Ren ani zespołu Ren.",
   "The input token cannot be transferred. There may be an issue with the input token.": "Nie można przenieść tokena wejściowego. Może występować problem z tokenem wejściowym.",
-  "The output token cannot be transferred. There may be an issue with the output token.": "Nie można przenieść tokena wyjściowego. Mo¿e występować problem z tokenem wyjściowym.",
+  "The output token cannot be transferred. There may be an issue with the output token.": "Nie można przenieść tokena wyjściowego. Może występować problem z tokenem wyjściowym.",
   "The transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low.": "Transakcja nie mogła zostaæ zrealizowana, ponieważ jej czas minął. Sprawdź, czy czas Twojej transakcji nie jest zbyt krótki.",
   "This swap goes via Ren from the {inputNetwork} to the {outputNetwork} network. Enter your {outputNetwork} wallet address above.": "Ta zamiana przechodzi przez Ren z sieci {inputNetwork} do sieci {outputNetwork}. Wpisz swój adres portfela {outputNetwork} powyżej.",
   "This swap goes via Ren from the {inputNetwork} to the {outputNetwork} network. Send your assets to the gateway address below. Wait for the gateway transaction to settle before swapping.": "Ta zamiana przechodzi przez Ren z sieci {inputNetwork} do sieci {outputNetwork}. Wyślij swoje zasoby na poniższy adres. Poczekaj na rozliczenie transakcji bramy przed zamianą.",
