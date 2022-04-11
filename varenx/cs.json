@@ -177,7 +177,7 @@
   "minutes": "minuty",
   "retry": "opakovat",
   "xDai Bridge": "Most na xDai",
-  "{0, plural, one {Token} many {Tokens}}": "{0, množné číslo, jeden {Token} mnoho {Tokens}}",
+  "{0, plural, one {Token} many {Tokens}}": "{0, plural, one {Token} many {Tokens}}",
   "{0} Miner Fee": "{0} Poplatek Težaři",
   "{0} network": "{0} síť",
   "{0} wallet address...": "{0} adresa peněženky...",
