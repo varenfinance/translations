@@ -179,6 +179,6 @@
   "{0, plural, one {Token} many {Tokens}}": "{0, πληθυντικός, ένα {Token} πολλά {Tokens}},
   "{0} Miner Fee": "{0} Αμοιβή Miner",
   "{0} network": "{0} δίκτυο",
-  "{0} wallet address...": "{0} διεύθυνση πορτοφολιού...":
+  "{0} wallet address...": "{0} διεύθυνση πορτοφολιού...",
   "{0}.": "{0}."
 }
