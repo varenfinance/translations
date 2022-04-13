@@ -43,6 +43,7 @@
   "New to Ethereum?": "Dopiero zaczynasz z Ethereum?",
   "Oops!": "Ups!",
   "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device": "Ups! Wystąpił nieznany błąd. Spróbuj odświeżyć stronę, otwórz ją w innej przeglądarce lub na innym urządzeniu",
+  "Output is estimated. If the price changes by more than {0}% your transaction\nwill revert.": "",
   "Output is estimated. If the price changes by more than {0}% your transaction will revert.": "Rezultat został oszacowany. Jeśli cena zmieni się o więcej niż {0}%, transakcja zostanie cofnięta.",
   "Overview": "Przegląd",
   "Pending": "W trakcie",
