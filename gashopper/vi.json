@@ -30,7 +30,7 @@
     "Gas estimate failed, trying eth_call to extract error": "Ước tính gas không thành công, thử eth_call để hiện lỗi",
     "Gashopper can only send funds from it's own wallet. If a wallet on a specific chain is empty or too low, the dApp prevents the exchange from happening.": "Gashopper chỉ có thể gửi tiền từ ví của chính nó. Nếu ví trên một chuỗi cụ thể trống hoặc quá thấp, dApp sẽ ngăn việc trao đổi diễn ra.",
     "Gashopper charges a 10% fee on every exchange. This fee goes into the Gashopper funding wallet and ultimately into Varen DAO Treasury as protocol owned liquidity.": "Gashopper tính phí 10% cho mỗi lần giao dịch. Phí này được chuyển vào ví funding Gashopper và cuối cùng vào Kho bạc Varen DAO (Varen DAO Treasury) dưới dạng giao thức sở hữu thanh khoản (Protocol Owned Liquidity).",
-    "Gashopper is a Muli-Chain-Faucet. It operates as a 'smart wallet' that has a middleware connected to it, which is listening to incoming transactions on the wallet.": "Gashopper là một Muli-Chain-Faucet. Nó hoạt động như một 'ví thông minh' có một phần mềm trung gian được kết nối với nó, phần mềm này sẽ theo dõi các giao dịch đến trên ví.",
+    "Gashopper is a Multi-Chain-Faucet. It operates as a 'smart wallet' that has a middleware connected to it, which is listening to incoming transactions on the wallet.": "Gashopper là một Multi-Chain-Faucet. Nó hoạt động như một 'ví thông minh' có một phần mềm trung gian được kết nối với nó, phần mềm này sẽ quan sát các giao dịch đến trên ví.",
     "Gashopper uses the varen.eth ENS Domain.": "Gashopper sử dụng varen.eth ENS Domain.",
     "Gashopper wallet balance on {network} insuficcient": "Số dư trong ví của Gashopper trên {network} không đủ",
     "Github": "Github",
