@@ -37,7 +37,7 @@
     "GasHopper funds": "Mga pondo ng GasHopper",
     "GasHopper is a Multi-Chain-Faucet. It operates as a 'smart wallet' that has a middleware connected to it, which is listening to incoming transactions on the wallet.": "Ang GasHopper ay isang Multi-Chain-Faucet. Gumagana ito bilang isang 'smart wallet' na mayroong middleware na konektado dito, na nagmamasid sa mga papasok na transaksyon sa wallet.",
     "GasHopper uses the varen.eth ENS Domain.": "Ginagamit ng GasHopper ang varen.eth ENS Domain.",
-    "GasHopper wallet balance on {network} insuficcient": "Hindi sapat ang balanse ng wallet ng GasHopper sa {network}.",
+    "GasHopper wallet balance on {network} insufficient": "Hindi sapat ang balanse ng wallet ng GasHopper sa {network}.",
     "Github": "Github",
     "Governance Forum": "Forum ng pamamahala",
     "I can't agree on a rate, as the funding wallet balance is too low?": "Hindi ako maaaring sumang-ayon sa rate, dahil masyadong mababa ang balanse ng funding wallet?",
